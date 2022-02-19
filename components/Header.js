@@ -40,9 +40,9 @@ const Header = () => {
       </div>
 
       <div className={style.headerItems}>
-        {/* <Link href="/collections/0x66a576A977b7Bccf510630E0aA5e450EC11361Fa">
+        <Link href="/collections/0x0D8EC4aAB55F66046Fdfd4c1377128be01F2E886">
           <div className={style.headerItem}> Collections </div>
-        </Link> */}
+        </Link>
         <div className={style.headerItem}> Stats </div>
         <div className={style.headerItem}> Resources </div>
         <div className={style.headerItem}> Create </div>
