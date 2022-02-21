@@ -121,7 +121,7 @@ const Collection = () => {
           src={
             collection?.bannerImageUrl
               ? collection.bannerImageUrl
-              : 'https://via.placeholder.com/200'
+              : 'https://thumbs.gfycat.com/ArtisticShoddyKudu-size_restricted.gif'
           }
           alt="banner"
         />
@@ -135,7 +135,7 @@ const Collection = () => {
             src={
               collection?.imageUrl
                 ? collection.imageUrl
-                : 'https://via.placeholder.com/200'
+                : 'https://thumbs.gfycat.com/ArtisticShoddyKudu-size_restricted.gif'
             }
             alt="profile image"
           />
