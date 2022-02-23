@@ -84,7 +84,7 @@ const Nft = () => {
               />
             </div>
           </div>
-          <ItemActivity />
+          {/* <ItemActivity /> */}
         </div>
       </div>
     </div>
