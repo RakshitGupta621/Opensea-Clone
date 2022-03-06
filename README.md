@@ -1,4 +1,4 @@
-# Open sea Clone
+# Opensea Clone
 
 - Built the UI using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 - Implemented the Authentication with [Metamask](https://metamask.io/).
