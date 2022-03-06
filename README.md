@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Open sea Clone
 
-## Getting Started
+- Built the UI using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+- Implemented the Authentication with [Metamask](https://metamask.io/).
+- Built a home and collections Page.
+- We can list NFTs for sale on Blockchain from the [ThirdWeb](https://thirdweb.com/).
+- All the data for this collection is coming from the [Sanity](https://www.sanity.io/) database.
+- Anyone can buy the NFT using their wallet like MetaMask and do a real transaction.
+- The sold NFTs are not further listed for sales.
+- Project is Deployed on [Vercel](https://vercel.com/)
 
-First, run the development server:
+## To run on Local System
+
+Clone the repository and then install the dependencies.
 
 ```bash
-npm run dev
-# or
-yarn dev
+1. npm i
+
+2. npm run dev or yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
